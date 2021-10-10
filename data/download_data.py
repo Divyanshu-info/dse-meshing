@@ -29,7 +29,6 @@ def download_dataset(source_url, target_dir, target_file):
     tar = tarfile.open(target_file, "r:xz")
     tar.extractall()
     tar.close()
-    os.remove(target_file)
     print('extracting ... done')
 
 def download_training():
