@@ -2,7 +2,6 @@
 Env/
 Python3.6/
 data/test_data_famousthingi
-data/test_data/select
 data/test_data/aligned_prediction
 data/test_data/raw_prediction
 data/dse_meshing_pretrained_models.tar.xz
