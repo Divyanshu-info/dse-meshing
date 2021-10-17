@@ -1,3 +1,3 @@
 import pyvista as pv
-mesh = pv.read("final_mesh_squirrel.ply")
+mesh = pv.read("Eiffel_Tower_mini.ply")
 mesh.plot()
